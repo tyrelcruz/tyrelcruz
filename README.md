@@ -3,7 +3,7 @@
 <h1 align="center">Tyrel Cruz Github Account</h1>
 <h3 align="center">Hello welcome to my Github Feed</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=790b7611791e3d7bd2891b0a9809d4da0c4e22683d999ce3&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=790b7611791e3d7bd2891b0a9809d4da0c4e22683d999ce3&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyrelcruz&label=Profile%20views&color=0e75b6&style=flat" alt="tyrelcruz" /> </p>
 
