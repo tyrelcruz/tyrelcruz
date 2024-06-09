@@ -1,9 +1,9 @@
-
+[![MasterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)]
 
 <h1 align="center">Tyrel Cruz GitHub Account</h1>
 <h3 align="center">National University 3rd Year Student</h3>
 
-<img align="right" alt="Coding" width="180" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=790b7611791e3d7bd2891b0a9809d4da0c4e22683d999ce3&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="160" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=790b7611791e3d7bd2891b0a9809d4da0c4e22683d999ce3&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyrelcruz&label=Profile%20views&color=0e75b6&style=flat" alt="tyrelcruz" /> </p>
 
