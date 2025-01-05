@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **tyrelcruz28@gmail.com**
 
-- ⚡ Fun fact **I like customizing roms, kernels of MIUI Devices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
