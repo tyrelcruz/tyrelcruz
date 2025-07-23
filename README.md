@@ -1,5 +1,5 @@
-[![MasterHead](https://ibb.co/tpyssz5z)](https://rishavchanda.io)
-<h1 align="center">Tyrel Cruz Github Account</h1>
+![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
+<h1 align="center">Tyrel Cruz</h1>
 <h3 align="center">National University 4th Year Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyrelcruz" alt="tyrelcruz" /></a> </p>
