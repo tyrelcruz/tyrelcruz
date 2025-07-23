@@ -1,4 +1,4 @@
-![MasterHead]https://ibb.co/tpyssz5z](https://rishavchanda.io)
+![MasterHead](https://ibb.co/tpyssz5z)](https://rishavchanda.io)
 <h1 align="center">Tyrel Cruz Github Account</h1>
 <h3 align="center">National University 4th Year Student</h3>
 
