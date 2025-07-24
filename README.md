@@ -1,5 +1,5 @@
 ![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
-<h3 align="center">National University 4th Year Student</h3>
+<h3 align="center">4th Year Student at National University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyrelcruz" alt="tyrelcruz" /></a> </p>
 
