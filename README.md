@@ -1,7 +1,7 @@
 ![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
 <h3 align="center">4th Year Student at National University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?tyrelcruz=ryo-ma&theme=darkhub" alt="tyrelcruz" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?tyrelcruz=ryo-ma&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?tyrelcruz=ryo-ma&theme=darkhub" alt="tyrelcruz" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyrelcruz?tab=repositories](https://github.com/tyrelcruz?tab=repositories)
 
