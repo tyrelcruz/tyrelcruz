@@ -1,4 +1,4 @@
-<img width="1005" height="257" alt="image" src="https://github.com/user-attachments/assets/a7a76c76-94fa-43eb-b450-dbde9f4d0c4b" />![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
+<img/>![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
 <h3 align="center">4th Year Student at National University</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyrelcruz?tab=repositories](https://github.com/tyrelcruz?tab=repositories)
@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrelcruz&theme" alt="tyrelcruz" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Contributed,Issues,Experience,ReviewsStars&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Contributed,Issues,Experience,Reviews,Stars,&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
