@@ -45,6 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="124" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="124" alt="languages graph" />
   <img src="https://streak-stats.vercel.app/?user=tyrelcruz&theme=tokyonight&hide_border=true" height="124" alt="tyrelcruz" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Contributed,Issues,Experience,Reviews,Stars&theme=darkhub&no-frame=true&row=1&column=9" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=darkhub&no-frame=true&row=1&column=9" alt="trophy" />
 </div>
 
