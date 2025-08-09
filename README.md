@@ -47,4 +47,4 @@ __________________
   <img src="https://github-profile-trophy.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=darkhub&no-frame=true&row=1&column=9" alt="trophy" />
 </div>
 
-____________________________________
+__________________
