@@ -1,10 +1,6 @@
 <img/>![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
 <h3 align="center">4th Year Student at National University</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tyrelcruz?tab=repositories](https://github.com/tyrelcruz?tab=repositories)
-
-- 📫 How to reach me [tyrelcruz28@gmail.com](tyrelcruz28@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tyrelcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyrelcruz" height="30" width="40" /></a>
