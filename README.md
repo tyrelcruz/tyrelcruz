@@ -1,7 +1,5 @@
 <img/>![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
 
-<h3 align="center">Languages and Tools</h3>
-
 <table>
   <tr>
     <th>Mobile App Development</th>
