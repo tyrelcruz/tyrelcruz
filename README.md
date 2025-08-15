@@ -48,4 +48,8 @@ __________________
 </div>
 
 __________________
-<img/>![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
+<div style="display:flex; justify-content:center; gap:10px;">
+  <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/buzzmap.png" style="width:49%;" />
+  <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Aviary_banner.png" style="width:49%;" />
+</div>
+
