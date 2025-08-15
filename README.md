@@ -48,8 +48,25 @@ __________________
 </div>
 
 __________________
-<div style="display:flex; justify-content:center; gap:10px;">
-  <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/buzzmap.png" style="width:49%;" />
-  <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Aviary_banner.png" style="width:49%;" />
-</div>
+
+<table align="center" width="100%" style="border-collapse:collapse; margin:0; padding:0;">
+  <tr>
+    <th colspan="2" style="text-align:center; font-size:18px; padding:0;">PROJECT BANNERS</th>
+  </tr>
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">BuzzMap</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">Aviary E-commerce</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/buzzmap.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Aviary_banner.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+  </tr>
+</table>
+
+
+
 
