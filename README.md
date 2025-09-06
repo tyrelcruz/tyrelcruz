@@ -49,6 +49,7 @@ __________________
   <tr>
     <th colspan="2" style="text-align:center; font-size:18px; padding:0;">PROJECT BANNERS</th>
   </tr>
+  <!-- First Row -->
   <tr>
     <th align="center" width="50%" style="padding:0; margin:0;">BuzzMap</th>
     <th align="center" width="50%" style="padding:0; margin:0;">Aviary E-commerce</th>
@@ -61,7 +62,21 @@ __________________
       <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Aviary_banner.png" style="max-width:100%; margin:0; padding:0;" />
     </td>
   </tr>
+  <!-- Second Row -->
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">AFProtrack</th>
+    <th align="center" width="50%" style="padding:0; margin:0;"></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/AFProtrack_banner.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    <td align="center" width="50%" style="padding:0; margin:0;"> Coast2Cart</th>
+      <!-- Empty slot for future project -->
+    </td>
+  </tr>
 </table>
+
 
 
 
