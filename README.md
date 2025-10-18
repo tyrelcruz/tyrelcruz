@@ -65,14 +65,14 @@ __________________
   <!-- Second Row -->
   <tr>
     <th align="center" width="50%" style="padding:0; margin:0;">AFProtrack</th>
-    <th align="center" width="50%" style="padding:0; margin:0;"></th>
+    <th align="center" width="50%" style="padding:0; margin:0;">Coast 2 Cart</th>
   </tr>
   <tr>
     <td align="center" width="50%" style="padding:0; margin:0;">
       <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/AFProtrack_banner.png" style="max-width:100%; margin:0; padding:0;" />
     </td>
-    <td align="center" width="50%" style="padding:0; margin:0;"> Coast2Cart</th>
-      <!-- Empty slot for future project -->
+    <td>
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/C2C_banner.png" style="max-width:100%; margin:0; padding:0;" />
     </td>
   </tr>
 </table>
