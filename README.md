@@ -8,7 +8,7 @@ __________________
 </div>
 
 <p align="center">
-I am <strong>Tyrel Cruz</strong>, an aspiring Full-Stack Developer passionate about building web and mobile applications. Skilled in <strong>Flutter</strong> and the <strong>MERN stack</strong>, with a strong drive to learn, grow, and contribute to collaborative, real-world software projects.
+I am <strong>Tyrel Cruz</strong>, an aspiring Full-Stack Developer passionate about building web and mobile applications. Skilled in <strong>Flutter</strong> and the <strong>MERN stack</strong>, with a strong drive to learn, grow, and contribute to collaborative, real-world software projects
 </p>
 
 
