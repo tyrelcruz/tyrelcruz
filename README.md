@@ -2,10 +2,16 @@
 __________________
 <div align="center">
 
+<img 
+  src="https://png.pngtree.com/png-clipart/20250206/original/pngtree-software-engineer-3d-icon-in-clean-design-isolated-on-white-background-png-image_20173912.png" 
+  alt="Software Engineer 3D Icon" 
+  width="120"
+/>
 ### BSIT Student at National University - Manila | Aspiring Full Stack / Web Developer
 ### SOFTWARE ENGINEER INTERN @ MEC NETWORKS CORP.
 
 </div>
+
 
 <table>
   <tr>
