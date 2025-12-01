@@ -35,14 +35,19 @@ I am <strong>Tyrel Cruz</strong>, an aspiring Full-Stack Developer passionate ab
       <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
       <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
       <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+      <a href="https://laravel.com/"><img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" width="40"/></a>
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
     </td>
     <td align="center">
       <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
       <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
       <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+      <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a>
+      <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40"/></a>
     </td>
   </tr>
 </table>
+
 
 
 <div style="text-align: center;">
