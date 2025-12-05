@@ -11,7 +11,7 @@ __________________
 <table>
   <tr>
     <th>Mobile App Development</th>
-    <th>Web Development</th>
+    <th>Web Development.</th>
     <th>Backend & Databases</th>
     <th>Other Tools</th>
   </tr>
