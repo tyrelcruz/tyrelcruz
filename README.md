@@ -3,7 +3,7 @@ __________________
 <div align="center">
 
 ### BSIT Student at National University - Manila | Aspiring Full Stack / Web Developer
-### SOFTWARE ENGINEER INTERN @ MEC NETWORKS CORP
+### SOFTWARE ENGINEER INTERN @ MEC NETWORKS CORP.
 
 </div>
 
