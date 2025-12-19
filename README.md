@@ -89,8 +89,7 @@ __________________
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8"
-    />
+    <img src="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
     <img
       src="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&no-frame=true&row=1&column=8"
       alt="trophy"
