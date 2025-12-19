@@ -44,18 +44,60 @@ __________________
   </tr>
 </table>
 
-
-
 <div style="text-align: center;">
-  <img src ="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
-  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
-  <img src="https://streak-stats.vercel.app/?user=tyrelcruz&theme=tokyonight&hide_border=true" height="124" alt="tyrelcruz" />
 
-  <img src="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
-  
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=darkhub&no-frame=true&row=1&column=9" alt="trophy" /> -->
-  
+  <!-- GitHub Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    />
+    <img
+      src="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      height="124"
+      alt="stats graph"
+    />
+  </picture>
 
+  <!-- Top Languages -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
+    />
+    <img
+      src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
+      height="124"
+      alt="languages graph"
+    />
+  </picture>
+
+  <!-- Streak Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.vercel.app/?user=tyrelcruz&theme=tokyonight&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.vercel.app/?user=tyrelcruz&hide_border=true"
+      height="124"
+      alt="streak stats"
+    />
+  </picture>
+
+  <!-- GitHub Trophies -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8"
+    />
+    <img
+      src="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&no-frame=true&row=1&column=8"
+      alt="trophy"
+    />
+  </picture>
+
+</div>
 
 </div>
 
