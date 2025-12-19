@@ -1,5 +1,15 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/tyrelcruz/tyrelcruz/blob/main/header_dark.png?raw=true"
+  />
+  <img
+    src="https://github.com/tyrelcruz/tyrelcruz/blob/main/header_light.png?raw=true"
+    alt="Header"
+    width="100%"
+  />
+</picture>
 
-<img/>![](https://github.com/tyrelcruz/tyrelcruz/blob/main/GITHUB_HEADER.png)
 __________________
 <div align="center">
 
