@@ -148,7 +148,7 @@ __________________
     <th align="center" width="50%" style="padding:0; margin:0;">OPTIMA</th>
     <tr>
       <td align="center" width="50%" style="padding:0; margin:0;">
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/AFProtrack_banner.png" style="max-width:100%; margin:0; padding:0;" />
+      <img src="" />
     </td>
     </tr>
   </tr>
