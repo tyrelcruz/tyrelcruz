@@ -48,7 +48,6 @@ __________________
     <td align="center">
       <a href="https://github.com"><img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="40" title="GitHub"/></a>
       <a href="https://docker.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Docker_logo_2013.svg/revision/latest?cb=20250108005937" width="40" title="Docker"/></a>
-      <a href="https://kubernetes.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="40" title="Kubernetes"/></a>
       <a href="https://www.github.com/features/actions.com/"><img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="40" title="Github Actions"/></a>
     </td>
     <td align="center">
