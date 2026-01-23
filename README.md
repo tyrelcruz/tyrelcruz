@@ -19,40 +19,83 @@ __________________
 </div>
 
 
-<table>
+<table width="100%" cellspacing="20">
+  <!-- Row 1: 2 tables side by side -->
   <tr>
-    <th>Mobile App Development</th>
-    <th>Web Development.</th>
-    <th>Backend & Databases</th>
-    <th>Other Tools</th>
+    <td width="50%" valign="top">
+      <table border="1" width="100%">
+        <tr><th>Mobile App Development</th></tr>
+        <tr>
+          <td align="center">
+            <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a><br>
+            <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a><br>
+            <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table border="1" width="100%">
+        <tr><th>Web Development</th></tr>
+        <tr>
+          <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/></a><br>
+            <a href="https://reactjs.org/"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/></a><br>
+            <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
+
+  <!-- Row 2: 2 tables side by side -->
   <tr>
-    <td align="center">
-      <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-      <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-      <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+    <td width="50%" valign="top">
+      <table border="1" width="100%">
+        <tr><th>Backend & Databases</th></tr>
+        <tr>
+          <td align="center">
+            <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a><br>
+            <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a><br>
+            <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a><br>
+            <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a><br>
+            <a href="https://laravel.com/"><img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" width="40"/></a><br>
+            <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/></a>
-      <a href="https://reactjs.org/"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/></a>
-      <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+    <td width="50%" valign="top">
+      <table border="1" width="100%">
+        <tr><th>DevOps</th></tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/"><img src="https://simplelocalize.io/blog/github-app/github-actions-for-localization.jpg" width="40"/></a><br>
+            <a href="https://docker.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Docker_logo_2013.svg/revision/latest?cb=20250108005937" width="40"/></a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center">
-      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-      <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-      <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-      <a href="https://laravel.com/"><img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" width="40"/></a>
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-      <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a>
-      <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40"/></a>
-      <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"/></a>
+  </tr>
+
+  <!-- Row 3: 1 big table spanning both columns -->
+  <tr>
+    <td colspan="2" valign="top">
+      <table border="1" width="100%">
+        <tr><th>Other Tools</th></tr>
+        <tr>
+          <td align="center">
+            <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a><br>
+            <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a><br>
+            <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40"/></a><br>
+            <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"/></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 <div style="text-align: center;">
 
