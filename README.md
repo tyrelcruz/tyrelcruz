@@ -18,13 +18,13 @@ __________________
 
 </div>
 
-<!-- Row 1: Mobile App + Web Development -->
 <table>
   <tr>
-    <!-- Mobile App Development -->
     <th>Mobile App Development</th>
-    <!-- Web Development -->
     <th>Web Development</th>
+    <th>Backend & Databases</th>
+    <th>DevOps</th>
+    <th>Other Tools</th>
   </tr>
   <tr>
     <td align="center">
@@ -37,18 +37,6 @@ __________________
       <a href="https://reactjs.org/"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/></a>
       <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
     </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Row 2: Backend & Databases + DevOps -->
-<table>
-  <tr>
-    <th>Backend & Databases</th>
-    <th>DevOps</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
       <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
@@ -58,20 +46,11 @@ __________________
       <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
     </td>
     <td align="center">
-      <a href="https://github.com/"><img src="https://simplelocalize.io/blog/github-app/github-actions-for-localization.jpg" width="40"/></a>
-      <a href="https://docker.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Docker_logo_2013.svg/revision/latest?cb=20250108005937" width="40"/></a>
+      <a href="https://github.com"><img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="40" title="GitHub"/></a>
+      <a href="https://docker.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Docker_logo_2013.svg/revision/latest?cb=20250108005937" width="40" title="Docker"/></a>
+      <a href="https://kubernetes.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="40" title="Kubernetes"/></a>
+      <a href="https://www.github.com/features/actions.com/"><img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="40" title="Github Actions"/></a>
     </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Row 3: Other Tools full width -->
-<table>
-  <tr>
-    <th>Other Tools</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
       <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a>
