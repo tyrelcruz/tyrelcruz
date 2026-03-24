@@ -148,9 +148,13 @@ __________________
   <!-- Third Row -->
   <tr>
     <th align="center" width="50%" style="padding:0; margin:0;">OPTIMA</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">PNP Sumbungan</th>
     <tr>
       <td align="center" width="50%" style="padding:0; margin:0;">
-      <img src="" />
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Optima_banner.jpeg" style="max-width:100%; margin:0; padding:0;" />
+      </td>
+      <td>
+      <img src="https://imgs.search.brave.com/b00sD4o25QCLzAeOTfc7D07ghr8XGL7wdMZa9L2cEvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NDQ5NDMxNi92ZWN0/b3IvdW5kZXItY29u/c3RydWN0aW9uLXBh/Z2UtMDIuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVhCUGVw/TVdlcEhZdjhJdEE3/Z3M1YlcwcW5FV0NO/d3pId2N3enR1ZE94/X289" style="max-width:100%; margin:0; padding:0;" />
     </td>
     </tr>
   </tr>
