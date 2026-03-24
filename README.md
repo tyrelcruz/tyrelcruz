@@ -34,6 +34,7 @@ __________________
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40"/></a>
       <a href="https://reactjs.org/"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/></a>
       <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
     </td>
