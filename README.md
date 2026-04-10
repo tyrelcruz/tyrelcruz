@@ -68,10 +68,10 @@ __________________
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
-      src="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
       height="124"
       alt="stats graph"
     />
@@ -81,7 +81,7 @@ __________________
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
     />
     <img
       src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
