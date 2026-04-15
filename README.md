@@ -13,7 +13,7 @@
 __________________
 <div align="center">
 
-### BSIT Student at National University - Manila | Aspiring Full Stack / Web Developer
+### Full Stack / Web Developer | Open to work
 ### ASSISTANT SOFTWARE ENGINEER @ MEC NETWORKS CORP.
 
 </div>
