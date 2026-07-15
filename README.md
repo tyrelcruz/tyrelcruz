@@ -71,7 +71,7 @@ __________________
       srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
-      src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=romejg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
       height="124"
       alt="stats graph"
     />
