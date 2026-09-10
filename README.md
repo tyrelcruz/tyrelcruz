@@ -145,6 +145,20 @@ __________________
     </td>
   </tr>
 
+    <!-- Second Row -->
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">DalaGO</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">Aviary E-Commerce</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/dalago.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    <td>
+      <img src="" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+  </tr>
+
   <!-- Third Row -->
   <tr>
     <th align="center" width="50%" style="padding:0; margin:0;">OPTIMA</th>
