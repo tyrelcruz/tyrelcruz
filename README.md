@@ -262,7 +262,73 @@ I use **Claude and Cursor** every day, but generated code gets the same review, 
   </picture>
 </p>
 
-<br/>
+</div>
+
+</div>
+
+__________________
+
+<table align="center" width="100%" style="border-collapse:collapse; margin:0; padding:0;">
+  <tr>
+    <th colspan="2" style="text-align:center; font-size:18px; padding:0;">PROJECT BANNERS</th>
+  </tr>
+  <!-- First Row -->
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">BuzzMap</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">PNPSumbungan</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/buzzmap.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/pnpsumbungan.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">AFProtrack</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">Coast 2 Cart</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Afprotrack.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    <td>
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Coast2Cart.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+  </tr>
+
+
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">DalaGO</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">Aviary E-Commerce</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/dalago.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    <td>
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/mysheraviary" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+  </tr>
+
+  <!-- Third Row -->
+  <tr>
+    <th align="center" width="50%" style="padding:0; margin:0;">OPTIMA</th>
+    <th align="center" width="50%" style="padding:0; margin:0;">KABIS Reviewer</th>
+    <tr>
+      <td align="center" width="50%" style="padding:0; margin:0;">
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Optima.png" style="max-width:100%; margin:0; padding:0;" />
+      </td>
+      <td>
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Kabis.png" style="max-width:100%; margin:0; padding:0;" />
+    </td>
+    </tr>
+  </tr>
+</table>
+
+
 
 <a href="mailto:tyrelcruz90@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Let's build something great. Open to full-stack and software engineering roles. tyrelcruz90@gmail.com" /></a>
 
