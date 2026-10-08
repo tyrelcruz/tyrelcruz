@@ -410,32 +410,6 @@ def experience(th):
 
 # ---------------------------------------------------------------- projects
 
-def streams_art(x, y, w, h):
-    pts = [(0.08, 0.72), (0.26, 0.42), (0.45, 0.6), (0.63, 0.3), (0.82, 0.5), (0.94, 0.22)]
-    P = [(x + px * w, y + py * h) for px, py in pts]
-    d = f"M{P[0][0]:.0f} {P[0][1]:.0f}" + "".join(
-        f" Q{(a[0] + b[0]) / 2:.0f} {a[1]:.0f} {b[0]:.0f} {b[1]:.0f}" for a, b in zip(P, P[1:]))
-    s = [f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="url(#streams-bg)"/>',
-         f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="url(#dots)"/>',
-         f'<path d="{d}" fill="none" stroke="url(#g-intel)" stroke-width="3" stroke-linecap="round" '
-         f'stroke-dasharray="8 10"><animate attributeName="stroke-dashoffset" from="0" to="-180" dur="4s" repeatCount="indefinite"/></path>']
-    for i, (px, py) in enumerate(P):
-        c = GRADS["intel"][i % 4]
-        s.append(f'<circle cx="{px:.0f}" cy="{py:.0f}" r="14" fill="{c}" opacity="0.25">'
-                 f'<animate attributeName="r" values="8;18;8" dur="2.4s" begin="{i * 0.4}s" repeatCount="indefinite"/></circle>'
-                 f'<circle cx="{px:.0f}" cy="{py:.0f}" r="6" fill="{c}" stroke="#fff" stroke-width="2"/>')
-    for i, (big, small) in enumerate([("~190", "endpoints"), ("12", "role types"), ("9", "services")]):
-        bx, by, bw = x + 24 + i * ((w - 48) / 3), y + h - 70, (w - 48) / 3 - 10
-        s.append(f'<rect x="{bx:.0f}" y="{by:.0f}" width="{bw:.0f}" height="50" rx="14" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.18"/>'
-                 + T(bx + 14, by + 32, big, 20, "#FFFFFF", 700) + T(bx + 14 + tw(big, 20, True) + 6, by + 31, small, 13, "#D1D1D6", 500))
-    return "".join(s)
-
-
-STREAMS_DEFS = (grad("streams-bg", ["#0B1E4A", "#2A0E4F"], 1, 1)
-                + '<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">'
-                  '<circle cx="2" cy="2" r="1.3" fill="#FFFFFF" fill-opacity="0.14"/></pattern>')
-
-
 def project_card(th, p, w, featured=False, min_h=0):
     s = 1.3 if featured else 1.0
     pad = 40 if featured else 28
@@ -455,14 +429,11 @@ def project_card(th, p, w, featured=False, min_h=0):
     if p.get("cta", True):
         parts.append(T(w - pad, H - pad + 4, "Case study ↓", round(15 * min(s, 1.1)), th["accent"], 600, "end"))
 
-    if p["img"]:
-        art = f'<image href="{jpeg_uri(p["img"], 1200 if featured else 820)}" width="{w}" height="{img_h}" preserveAspectRatio="xMidYMid slice"/>'
-    else:
-        art = streams_art(0, 0, w, img_h)
+    art = f'<image href="{jpeg_uri(p["img"], 1200 if featured else 820)}" width="{w}" height="{img_h}" preserveAspectRatio="xMidYMid slice"/>'
     body = (f'<g clip-path="url(#clip)"><rect width="{w}" height="{H:.0f}" fill="{th["card"]}"/>{art}</g>'
             f'<rect x="0.5" y="0.5" width="{w - 1}" height="{H - 1:.0f}" rx="28" fill="none" stroke="{th["stroke"]}"/>'
             + "".join(parts))
-    defs = all_grads() + STREAMS_DEFS + f'<clipPath id="clip"><rect width="{w}" height="{H:.0f}" rx="28"/></clipPath>'
+    defs = all_grads() + f'<clipPath id="clip"><rect width="{w}" height="{H:.0f}" rx="28"/></clipPath>'
     return doc(w, H, body, f'{p["title"]}: {p["tagline"]}', defs), H
 
 
@@ -471,7 +442,7 @@ PROJECTS = {
                        title="Quadshield",
                        tagline="Emergency dispatch with sub-second two-way voice, an ESP32 panic button, and an offline-first mobile app.",
                        chips=["Laravel Reverb", "LiveKit WebRTC", "Flutter", "React", "ESP32 · C++", "Docker"]),
-    "streams": dict(img=None, eyebrow="MEC Networks  ·  4-person team", title="STREAMS",
+    "streams": dict(img="streams_banner.png", eyebrow="MEC Networks  ·  4-person team", title="STREAMS",
                     tagline="Field-service platform for dispatch, GPS tracking, reporting, client sign-off, and billing.",
                     chips=["Laravel 12", "React 19", "Flutter", "Reverb", "Redis"]),
     "buzzmap": dict(img="Buzzmap.png", eyebrow="Quezon City Epidemiology Division", title="BuzzMap",
