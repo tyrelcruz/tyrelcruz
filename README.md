@@ -155,7 +155,7 @@ __________________
       <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/dalago.png" style="max-width:100%; margin:0; padding:0;" />
     </td>
     <td>
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/mysheraviary.png" style="max-width:100%; margin:0; padding:0;" />
+      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/mysheraviary" style="max-width:100%; margin:0; padding:0;" />
     </td>
   </tr>
 
