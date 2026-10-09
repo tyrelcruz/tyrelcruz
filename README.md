@@ -1,24 +1,24 @@
 <!-- Pages: assets/build.py · Recordings of the portfolio: assets/showcase/make.sh -->
 
-<a href="https://devtyrelcruz.vercel.app"><img src="./assets/hero.svg" width="100%" alt="What you put into words, // I put into code. Tyrel Cruz, Full-Stack Software Engineer at MEC Networks." /></a>
+<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero-light.svg" width="100%" alt="What you put into words, // I put into code. Tyrel Cruz, Full-Stack Software Engineer at MEC Networks." /></picture></a>
 
 <p align="center">
-  <a href="https://devtyrelcruz.vercel.app"><img src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/tyrelcruz"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:tyrelcruz90@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
+  <a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" /><img src="./assets/btn-portfolio-light.svg" alt="Portfolio" /></picture></a>
+  <a href="https://linkedin.com/in/tyrelcruz"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn" /></picture></a>
+  <a href="mailto:tyrelcruz90@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" alt="Email" /></picture></a>
 </p>
 
-<img src="./assets/about.svg" width="100%" alt="Full-Stack Software Engineer, MEC Networks Corporation, Nov 2025 to Present: 70% less manual deployment effort, 90% fewer build failures, 40% fewer duplicate reports, deploys from 10 to 4 minutes. Co-Founder and Lead Software Engineer, QuadSync Technologies. BS Information Technology, Magna Cum Laude, National University Manila, GWA 3.78." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" /><img src="./assets/about-light.svg" width="100%" alt="Full-Stack Software Engineer, MEC Networks Corporation, Nov 2025 to Present: 70% less manual deployment effort, 90% fewer build failures, 40% fewer duplicate reports, deploys from 10 to 4 minutes. Co-Founder and Lead Software Engineer, QuadSync Technologies. BS Information Technology, Magna Cum Laude, National University Manila, GWA 3.78." /></picture>
 
-<a href="https://devtyrelcruz.vercel.app/#ai-solutions"><img src="./assets/showcase/ai-solutions.webp" width="100%" alt="AI Solutions: one prompt traced through a transformer — tokens, embeddings, self-attention, feed-forward layers and the autoregressive loop." /></a>
+<a href="https://devtyrelcruz.vercel.app/#ai-solutions"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-solutions-dark.webp" /><img src="./assets/showcase/ai-solutions-light.webp" width="100%" alt="AI Solutions: one prompt traced through a transformer — tokens, embeddings, self-attention, feed-forward layers and the autoregressive loop." /></picture></a>
 
-<a href="https://devtyrelcruz.vercel.app/#games"><img src="./assets/showcase/ai-game.webp" width="100%" alt="AI Game: a convolutional neural network guesses a doodle of an envelope, live in the browser." /></a>
+<a href="https://devtyrelcruz.vercel.app/#games"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-game-dark.webp" /><img src="./assets/showcase/ai-game-light.webp" width="100%" alt="AI Game: a convolutional neural network guesses a doodle of an envelope, live in the browser." /></picture></a>
 
-<a href="https://devtyrelcruz.vercel.app/#websites"><img src="./assets/showcase/web-development.webp" width="100%" alt="Web Development: BuzzMap's public site and admin console for Quezon City." /></a>
+<a href="https://devtyrelcruz.vercel.app/#websites"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/web-development-dark.webp" /><img src="./assets/showcase/web-development-light.webp" width="100%" alt="Web Development: BuzzMap's public site and admin console for Quezon City." /></picture></a>
 
-<a href="https://devtyrelcruz.vercel.app/#app-development"><img src="./assets/showcase/app-development.webp" width="100%" alt="App Development: Sumbungan, BuzzMap and DalaGO on one phone." /></a>
+<a href="https://devtyrelcruz.vercel.app/#app-development"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/app-development-dark.webp" /><img src="./assets/showcase/app-development-light.webp" width="100%" alt="App Development: Sumbungan, BuzzMap and DalaGO on one phone." /></picture></a>
 
-<img src="./assets/work.svg" width="100%" alt="Selected work: Quadshield for the Philippine National Police, BuzzMap for Quezon City, Streams for MEC Networks, AFProTrack for the Armed Forces of the Philippines, KaBiS, DalaGO and MySher Aviary." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg" /><img src="./assets/work-light.svg" width="100%" alt="Selected work: Quadshield for the Philippine National Police, BuzzMap for Quezon City, Streams for MEC Networks, AFProTrack for the Armed Forces of the Philippines, KaBiS, DalaGO and MySher Aviary." /></picture>
 
 <details>
 <summary><b>The record, in one line each</b></summary>
@@ -36,16 +36,31 @@
 
 </details>
 
-<img src="./assets/activity.svg" width="100%" alt="Activity: The commit log." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" /><img src="./assets/activity-light.svg" width="100%" alt="Activity: The commit log." /></picture>
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=FAF9F7&title_color=101214&text_color=646972&icon_color=A54A28&border_color=DFDCD6" width="49%" alt="GitHub stats" />
-  <img src="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=FAF9F7&border=DFDCD6&stroke=DFDCD6&ring=A54A28&fire=A54A28&currStreakNum=101214&sideNums=101214&currStreakLabel=A54A28&sideLabels=646972&dates=A3A6AC" width="49%" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=161513&title_color=FAF9F7&text_color=9A968E&icon_color=D2733F&border_color=34322E" />
+    <img src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=FAF9F7&title_color=101214&text_color=646972&icon_color=A54A28&border_color=DFDCD6" width="49%" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=161513&border=34322E&stroke=34322E&ring=D2733F&fire=D2733F&currStreakNum=FAF9F7&sideNums=FAF9F7&currStreakLabel=D2733F&sideLabels=9A968E&dates=6B6862" />
+    <img src="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=FAF9F7&border=DFDCD6&stroke=DFDCD6&ring=A54A28&fire=A54A28&currStreakNum=101214&sideNums=101214&currStreakLabel=A54A28&sideLabels=646972&dates=A3A6AC" width="49%" alt="Contribution streak" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=default&utcOffset=8" width="32%" alt="Commits by hour (UTC+8)" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by repo" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by commit" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=dark&utcOffset=8" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=default&utcOffset=8" width="32%" alt="Commits by hour (UTC+8)" />
+  </picture>
 </p>
 
-<a href="https://devtyrelcruz.vercel.app"><img src="./assets/footer.svg" width="100%" alt="Tyrel Cruz — devtyrelcruz.vercel.app — linkedin.com/in/tyrelcruz — tyrelcruz90@gmail.com" /></a>
+<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" /><img src="./assets/footer-light.svg" width="100%" alt="Tyrel Cruz — devtyrelcruz.vercel.app — linkedin.com/in/tyrelcruz — tyrelcruz90@gmail.com" /></picture></a>

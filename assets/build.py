@@ -33,17 +33,24 @@ GARAMOND = os.environ.get("GARAMOND_TTF", os.path.join(
 PORTFOLIO = "https://devtyrelcruz.vercel.app"
 EMAIL = "tyrelcruz90@gmail.com"
 
-# Tokens from the portfolio's index.css (and the brand README for the mark).
-PAPER = "#faf9f7"
-INK = "#101214"
-MUTED = "#646972"
-FAINT = "#a3a6ac"
-RUST = "#a54a28"
-BORDER = "#dfdcd6"
-HAIR = "#e9e6e0"
-CARD = "#ffffff"
-MARK_INK = "#25262b"
-MARK_RUST = "#a5502e"
+# Light: the portfolio's tokens from index.css. Dark: the ink card from its How It Works deck
+# (rust carried up in lightness so it still reads). The mark follows the brand README: on dark,
+# the quote turns Paper and the cursor stays Rust.
+THEMES = {
+    "light": dict(PAPER="#faf9f7", INK="#101214", MUTED="#646972", FAINT="#a3a6ac", RUST="#a54a28",
+                  BORDER="#dfdcd6", HAIR="#e9e6e0", CARD="#ffffff", MARK_INK="#25262b", MARK_RUST="#a5502e",
+                  SLASH="#b9bbc0", TRACK="#ebe8e3"),
+    "dark": dict(PAPER="#161513", INK="#faf9f7", MUTED="#9a968e", FAINT="#6b6862", RUST="#d2733f",
+                 BORDER="#34322e", HAIR="#2a2825", CARD="#1e1d1a", MARK_INK="#faf9f7", MARK_RUST="#a5502e",
+                 SLASH="#57544e", TRACK="#2e2c28"),
+}
+
+
+def set_theme(name):
+    globals().update(THEMES[name])
+
+
+set_theme("light")
 
 
 # ---------------------------------------------------------------- fonts → outlines
@@ -288,7 +295,7 @@ def hero():
     p.css.append(FADE_CSS + ".d1{animation-delay:.06s}.d2{animation-delay:.16s}.d3{animation-delay:.26s}")
     navbar(p, None, 1 / 7)
     p.text(W / 2, 236, "What you put into words,", SERIF, 84, INK, "middle", cls="rise d1")
-    _, spans = p.runs(W / 2 - 9, 308, [("// ", MONO_I, 27, "#b9bbc0", 0),
+    _, spans = p.runs(W / 2 - 9, 308, [("// ", MONO_I, 27, SLASH, 0),
                                        ("I put into code.", MONO_I, 27, MUTED, 0)], "middle", cls="rise d2")
     end = spans[-1][0] + spans[-1][1]
     p.add(f'<g class="rise d2"><rect class="blink" x="{end + 8:.1f}" y="284" width="10" height="27" fill="{RUST}"/></g>')
@@ -331,7 +338,7 @@ def about():
     w10 = p.text(x + cw - 18 - w4 - 7, y + 26, "10min", MONO, 11.5, FAINT, "end")
     sx = x + cw - 18 - w4 - 7 - w10
     p.add(f'<line x1="{sx:.1f}" y1="{y + 22}" x2="{sx + w10:.1f}" y2="{y + 22}" stroke="{FAINT}"/>'
-          f'<rect x="{x + 18}" y="{y + 40}" width="{cw - 36}" height="5" rx="2.5" fill="#ebe8e3"/>'
+          f'<rect x="{x + 18}" y="{y + 40}" width="{cw - 36}" height="5" rx="2.5" fill="{TRACK}"/>'
           f'<rect class="grow" x="{x + 18}" y="{y + 40}" width="{(cw - 36) * 0.4:.0f}" height="5" rx="2.5" fill="{RUST}"/>')
     y += 62 + 44
     p.add(f'<line x1="{x}" y1="{y - 20}" x2="{x + cw}" y2="{y - 20}" stroke="{HAIR}"/>')
@@ -452,17 +459,20 @@ def main():
     MONO_I = Font(c("IBMPlexMono-400i.ttf"), SANS)
     SERIF = Font(GARAMOND, SANS, avoid="~")  # Garamond's tilde sits up at accent height
 
-    pages = {"hero.svg": hero(), "about.svg": about(), "work.svg": work(), "activity.svg": activity(),
-             "footer.svg": footer()}
-    for key, label in {"portfolio": "Portfolio →", "linkedin": "LinkedIn →", "email": "Email →"}.items():
-        pages[f"btn-{key}.svg"] = pill(label)
-    for name, svg in pages.items():
-        write(name, svg)
-    # Headers for the recordings; assets/showcase/make.sh renders these and stacks them onto each recording.
     os.makedirs(os.path.join(OUT, "src", "headers"), exist_ok=True)
-    for key, label, title, sub, chips in SHOWCASE:
-        write(os.path.join("src", "headers", f"{key}.svg"), showcase_header(label, title, sub, chips))
-    print(f"Built {len(pages)} pages and {len(SHOWCASE)} showcase headers in assets/")
+    count = 0
+    for theme in THEMES:
+        set_theme(theme)
+        pages = {"hero": hero(), "about": about(), "work": work(), "activity": activity(), "footer": footer()}
+        for key, label in {"portfolio": "Portfolio →", "linkedin": "LinkedIn →", "email": "Email →"}.items():
+            pages[f"btn-{key}"] = pill(label)
+        for name, svg in pages.items():
+            write(f"{name}-{theme}.svg", svg)
+        # Headers for the recordings; assets/showcase/make.sh renders these and stacks them onto each one.
+        for key, label, title, sub, chips in SHOWCASE:
+            write(os.path.join("src", "headers", f"{key}-{theme}.svg"), showcase_header(label, title, sub, chips))
+        count += len(pages)
+    print(f"Built {count} pages and {len(SHOWCASE) * len(THEMES)} showcase headers in assets/")
 
 
 if __name__ == "__main__":
