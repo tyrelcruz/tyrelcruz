@@ -1,24 +1,24 @@
 <!-- Pages: assets/build.py · Recordings of the portfolio: assets/showcase/make.sh -->
 
-<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero-light.svg" width="100%" alt="What you put into words, // I put into code. Tyrel Cruz, Full-Stack Software Engineer at MEC Networks." /></picture></a>
+<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=3" /><img src="./assets/hero-light.svg?v=3" width="100%" alt="What you put into words, // I put into code. Tyrel Cruz, Full-Stack Software Engineer at MEC Networks." /></picture></a>
 
 <p align="center">
-  <a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" /><img src="./assets/btn-portfolio-light.svg" alt="Portfolio" /></picture></a>
-  <a href="https://linkedin.com/in/tyrelcruz"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn" /></picture></a>
-  <a href="mailto:tyrelcruz90@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img src="./assets/btn-email-light.svg" alt="Email" /></picture></a>
+  <a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg?v=3" /><img src="./assets/btn-portfolio-light.svg?v=3" alt="Portfolio" /></picture></a>
+  <a href="https://linkedin.com/in/tyrelcruz"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg?v=3" /><img src="./assets/btn-linkedin-light.svg?v=3" alt="LinkedIn" /></picture></a>
+  <a href="mailto:tyrelcruz90@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg?v=3" /><img src="./assets/btn-email-light.svg?v=3" alt="Email" /></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" /><img src="./assets/about-light.svg" width="100%" alt="Full-Stack Software Engineer, MEC Networks Corporation, Nov 2025 to Present: 70% less manual deployment effort, 90% fewer build failures, 40% fewer duplicate reports, deploys from 10 to 4 minutes. Co-Founder and Lead Software Engineer, QuadSync Technologies. BS Information Technology, Magna Cum Laude, National University Manila, GWA 3.78." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg?v=3" /><img src="./assets/about-light.svg?v=3" width="100%" alt="Full-Stack Software Engineer, MEC Networks Corporation, Nov 2025 to Present: 70% less manual deployment effort, 90% fewer build failures, 40% fewer duplicate reports, deploys from 10 to 4 minutes. Co-Founder and Lead Software Engineer, QuadSync Technologies. BS Information Technology, Magna Cum Laude, National University Manila, GWA 3.78." /></picture>
 
-<a href="https://devtyrelcruz.vercel.app/#ai-solutions"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-solutions-dark.webp" /><img src="./assets/showcase/ai-solutions-light.webp" width="100%" alt="AI Solutions: one prompt traced through a transformer — tokens, embeddings, self-attention, feed-forward layers and the autoregressive loop." /></picture></a>
+<a href="https://devtyrelcruz.vercel.app/#ai-solutions"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-solutions-dark.webp?v=3" /><img src="./assets/showcase/ai-solutions-light.webp?v=3" width="100%" alt="AI Solutions: one prompt traced through a transformer — tokens, embeddings, self-attention, feed-forward layers and the autoregressive loop." /></picture></a>
 
-<a href="https://devtyrelcruz.vercel.app/#games"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-game-dark.webp" /><img src="./assets/showcase/ai-game-light.webp" width="100%" alt="AI Game: a convolutional neural network guesses a doodle of an envelope, live in the browser." /></picture></a>
+<a href="https://devtyrelcruz.vercel.app/#games"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-game-dark.webp?v=3" /><img src="./assets/showcase/ai-game-light.webp?v=3" width="100%" alt="AI Game: a convolutional neural network guesses a doodle of an envelope, live in the browser." /></picture></a>
 
-<a href="https://devtyrelcruz.vercel.app/#websites"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/web-development-dark.webp" /><img src="./assets/showcase/web-development-light.webp" width="100%" alt="Web Development: BuzzMap's public site and admin console for Quezon City." /></picture></a>
+<a href="https://devtyrelcruz.vercel.app/#websites"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/web-development-dark.webp?v=3" /><img src="./assets/showcase/web-development-light.webp?v=3" width="100%" alt="Web Development: BuzzMap's public site and admin console for Quezon City." /></picture></a>
 
-<a href="https://devtyrelcruz.vercel.app/#app-development"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/app-development-dark.webp" /><img src="./assets/showcase/app-development-light.webp" width="100%" alt="App Development: Sumbungan, BuzzMap and DalaGO on one phone." /></picture></a>
+<a href="https://devtyrelcruz.vercel.app/#app-development"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/app-development-dark.webp?v=3" /><img src="./assets/showcase/app-development-light.webp?v=3" width="100%" alt="App Development: Sumbungan, BuzzMap and DalaGO on one phone." /></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg" /><img src="./assets/work-light.svg" width="100%" alt="Selected work: Quadshield for the Philippine National Police, BuzzMap for Quezon City, Streams for MEC Networks, AFProTrack for the Armed Forces of the Philippines, KaBiS, DalaGO and MySher Aviary." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg?v=3" /><img src="./assets/work-light.svg?v=3" width="100%" alt="Selected work: Quadshield for the Philippine National Police, BuzzMap for Quezon City, Streams for MEC Networks, AFProTrack for the Armed Forces of the Philippines, KaBiS, DalaGO and MySher Aviary." /></picture>
 
 <details>
 <summary><b>The record, in one line each</b></summary>
@@ -36,7 +36,7 @@
 
 </details>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" /><img src="./assets/activity-light.svg" width="100%" alt="Activity: The commit log." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg?v=3" /><img src="./assets/activity-light.svg?v=3" width="100%" alt="Activity: The commit log." /></picture>
 
 <p align="center">
   <picture>
@@ -63,4 +63,4 @@
   </picture>
 </p>
 
-<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" /><img src="./assets/footer-light.svg" width="100%" alt="Tyrel Cruz — devtyrelcruz.vercel.app — linkedin.com/in/tyrelcruz — tyrelcruz90@gmail.com" /></picture></a>
+<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg?v=3" /><img src="./assets/footer-light.svg?v=3" width="100%" alt="Tyrel Cruz — devtyrelcruz.vercel.app — linkedin.com/in/tyrelcruz — tyrelcruz90@gmail.com" /></picture></a>
