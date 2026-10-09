@@ -28,18 +28,18 @@ await send('Emulation.setDeviceMetricsOverride', { width: W, height: H, deviceSc
 await send('Page.navigate', { url: '' + (process.env.PORTFOLIO_URL || 'http://localhost:4321/') + '' });
 await sleep(6500);
 
-// THEME=dark: the portfolio has no dark mode, so record it under the brand's ink palette — the
+// THEME=dark: the portfolio has no dark mode, so record it on GitHub's dark canvas — the
 // tokens swapped, and (FIXWHITE=1, for sections with no device mockups) any white card darkened
 // just before each frame. Mockups keep their real, light screens.
-const DARK_CSS = ':root{--color-surface:#161513;--color-surface-muted:#1e1d1a;--color-ink:#faf9f7;' +
-  '--color-ink-muted:#9a968e;--color-border:#34322e;--color-rust:#d2733f}html,body{background:#161513!important}';
+const DARK_CSS = ':root{--color-surface:#0d1117;--color-surface-muted:#161b22;--color-ink:#f0f6fc;' +
+  '--color-ink-muted:#9198a1;--color-border:#30363d;--color-rust:#d2733f}html,body{background:#0d1117!important}';
 const FIX_WHITE = `for (const el of document.body.querySelectorAll('*')) {
   if (el.tagName === 'CANVAS' || el.closest('svg')) continue;
   const m = getComputedStyle(el).backgroundColor.match(/rgba?\\((\\d+), (\\d+), (\\d+)(?:, ([\\d.]+))?/);
   if (m && +m[1] > 226 && +m[2] > 226 && +m[3] > 226 && (m[4] === undefined || +m[4] > 0.5))
     // Cards go dark; buttons stay light and take dark text, so they still read as buttons.
-    if (el.closest('button')) el.style.setProperty('color', '#161513', 'important');
-    else el.style.setProperty('background-color', '#1e1d1a', 'important');
+    if (el.closest('button')) el.style.setProperty('color', '#0d1117', 'important');
+    else el.style.setProperty('background-color', '#161b22', 'important');
 }`;
 const dark = process.env.THEME === 'dark';
 if (dark) await evalJS(`document.head.insertAdjacentHTML('beforeend', ${JSON.stringify(`<style>${DARK_CSS}</style>`)})`);

@@ -40,25 +40,25 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=161513&title_color=FAF9F7&text_color=9A968E&icon_color=D2733F&border_color=34322E" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=0D1117&title_color=F0F6FC&text_color=9198A1&icon_color=D2733F&border_color=30363D" />
     <img src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=FAF9F7&title_color=101214&text_color=646972&icon_color=A54A28&border_color=DFDCD6" width="49%" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=161513&border=34322E&stroke=34322E&ring=D2733F&fire=D2733F&currStreakNum=FAF9F7&sideNums=FAF9F7&currStreakLabel=D2733F&sideLabels=9A968E&dates=6B6862" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=0D1117&border=30363D&stroke=30363D&ring=D2733F&fire=D2733F&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=D2733F&sideLabels=9198A1&dates=656C76" />
     <img src="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=FAF9F7&border=DFDCD6&stroke=DFDCD6&ring=A54A28&fire=A54A28&currStreakNum=101214&sideNums=101214&currStreakLabel=A54A28&sideLabels=646972&dates=A3A6AC" width="49%" alt="Contribution streak" />
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by repo" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by commit" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=dark&utcOffset=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=github_dark&utcOffset=8" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=default&utcOffset=8" width="32%" alt="Commits by hour (UTC+8)" />
   </picture>
 </p>

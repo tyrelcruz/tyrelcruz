@@ -37,7 +37,7 @@ header_png() { # name theme → $FRAMES/<name>-<theme>-header.png, sized exactly
 
 card() { # name theme first count every crop
   local name=$1 theme=$2 first=$3 count=$4 every=$5 crop=$6 hh r=18 paper edge
-  if [ "$theme" = dark ]; then paper=0x161513; edge="42,40,37"; else paper=0xfaf9f7; edge="227,224,218"; fi
+  if [ "$theme" = dark ]; then paper=0x0d1117; edge="48,54,61"; else paper=0xfaf9f7; edge="227,224,218"; fi
   IFS=, read -r er eg eb <<< "$edge"
   hh=$(header_png "$name" "$theme")
   # Rounded corners: transparent outside the radius, a hairline just inside it.

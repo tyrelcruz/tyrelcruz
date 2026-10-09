@@ -33,16 +33,16 @@ GARAMOND = os.environ.get("GARAMOND_TTF", os.path.join(
 PORTFOLIO = "https://devtyrelcruz.vercel.app"
 EMAIL = "tyrelcruz90@gmail.com"
 
-# Light: the portfolio's tokens from index.css. Dark: the ink card from its How It Works deck
-# (rust carried up in lightness so it still reads). The mark follows the brand README: on dark,
+# Light: the portfolio's tokens from index.css. Dark: GitHub's own dark canvas and neutrals, so the
+# pages sit flush with the profile, with the portfolio's rust carried up in lightness so it still reads. The mark follows the brand README: on dark,
 # the quote turns Paper and the cursor stays Rust.
 THEMES = {
     "light": dict(PAPER="#faf9f7", INK="#101214", MUTED="#646972", FAINT="#a3a6ac", RUST="#a54a28",
                   BORDER="#dfdcd6", HAIR="#e9e6e0", CARD="#ffffff", MARK_INK="#25262b", MARK_RUST="#a5502e",
                   SLASH="#b9bbc0", TRACK="#ebe8e3"),
-    "dark": dict(PAPER="#161513", INK="#faf9f7", MUTED="#9a968e", FAINT="#6b6862", RUST="#d2733f",
-                 BORDER="#34322e", HAIR="#2a2825", CARD="#1e1d1a", MARK_INK="#faf9f7", MARK_RUST="#a5502e",
-                 SLASH="#57544e", TRACK="#2e2c28"),
+    "dark": dict(PAPER="#0d1117", INK="#f0f6fc", MUTED="#9198a1", FAINT="#656c76", RUST="#d2733f",
+                 BORDER="#30363d", HAIR="#21262d", CARD="#161b22", MARK_INK="#f0f6fc", MARK_RUST="#a5502e",
+                 SLASH="#484f58", TRACK="#21262d"),
 }
 
 
