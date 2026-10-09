@@ -1,166 +1,66 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/tyrelcruz/tyrelcruz/blob/main/header_dark.png?raw=true"
-  />
-  <img
-    src="https://github.com/tyrelcruz/tyrelcruz/blob/main/header_light.png?raw=true"
-    alt="Header"
-    width="100%"
-  />
-</picture>
+<!-- Pages: assets/build.py · Recordings of the portfolio: assets/showcase/make.sh -->
 
-__________________
-<div align="center">
+<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=3" /><img src="./assets/hero-light.svg?v=3" width="100%" alt="What you put into words, // I put into code. Tyrel Cruz, Full-Stack Software Engineer at MEC Networks." /></picture></a>
 
-### Full Stack / Web Developer | Open to work
-### ASSISTANT SOFTWARE ENGINEER @ MEC NETWORKS CORP.
+<p align="center">
+  <a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg?v=3" /><img src="./assets/btn-portfolio-light.svg?v=3" alt="Portfolio" /></picture></a>
+  <a href="https://linkedin.com/in/tyrelcruz"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg?v=3" /><img src="./assets/btn-linkedin-light.svg?v=3" alt="LinkedIn" /></picture></a>
+  <a href="mailto:tyrelcruz90@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg?v=3" /><img src="./assets/btn-email-light.svg?v=3" alt="Email" /></picture></a>
+</p>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg?v=3" /><img src="./assets/about-light.svg?v=3" width="100%" alt="Full-Stack Software Engineer, MEC Networks Corporation, Nov 2025 to Present: 70% less manual deployment effort, 90% fewer build failures, 40% fewer duplicate reports, deploys from 10 to 4 minutes. Co-Founder and Lead Software Engineer, QuadSync Technologies. BS Information Technology, Magna Cum Laude, National University Manila, GWA 3.78." /></picture>
 
-<table>
-  <tr>
-    <th>Mobile App Development</th>
-    <th>Web Development</th>
-    <th>Backend & Databases</th>
-    <th>DevOps</th>
-    <th>Other Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-      <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-      <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/></a>
-      <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40"/></a>
-      <a href="https://reactjs.org/"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/></a>
-      <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-      <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-      <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-      <a href="https://laravel.com/"><img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" width="40"/></a>
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com"><img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="40" title="GitHub"/></a>
-      <a href="https://docker.com/"><img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Docker_logo_2013.svg/revision/latest?cb=20250108005937" width="40" title="Docker"/></a>
-      <a href="https://www.github.com/features/actions.com/"><img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="40" title="Github Actions"/></a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-      <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a>
-      <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40"/></a>
-      <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"/></a>
-    </td>
-  </tr>
-</table>
+<a href="https://devtyrelcruz.vercel.app/#ai-solutions"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-solutions-dark.webp?v=3" /><img src="./assets/showcase/ai-solutions-light.webp?v=3" width="100%" alt="AI Solutions: one prompt traced through a transformer — tokens, embeddings, self-attention, feed-forward layers and the autoregressive loop." /></picture></a>
 
+<a href="https://devtyrelcruz.vercel.app/#games"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/ai-game-dark.webp?v=3" /><img src="./assets/showcase/ai-game-light.webp?v=3" width="100%" alt="AI Game: a convolutional neural network guesses a doodle of an envelope, live in the browser." /></picture></a>
 
+<a href="https://devtyrelcruz.vercel.app/#websites"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/web-development-dark.webp?v=3" /><img src="./assets/showcase/web-development-light.webp?v=3" width="100%" alt="Web Development: BuzzMap's public site and admin console for Quezon City." /></picture></a>
 
-<div style="text-align: center;">
+<a href="https://devtyrelcruz.vercel.app/#app-development"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/showcase/app-development-dark.webp?v=3" /><img src="./assets/showcase/app-development-light.webp?v=3" width="100%" alt="App Development: Sumbungan, BuzzMap and DalaGO on one phone." /></picture></a>
 
-  <!-- GitHub Stats -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg?v=3" /><img src="./assets/work-light.svg?v=3" width="100%" alt="Selected work: Quadshield for the Philippine National Police, BuzzMap for Quezon City, Streams for MEC Networks, AFProTrack for the Armed Forces of the Philippines, KaBiS, DalaGO and MySher Aviary." /></picture>
+
+<details>
+<summary><b>The record, in one line each</b></summary>
+<br/>
+
+| | Project | What it is |
+| :-- | :-- | :-- |
+| 01 | [**Quadshield**](https://pnpinfanta.com/) | Emergency dispatch for the PNP — Reverb signalling, LiveKit WebRTC voice, an ESP32 panic button and an offline-first Flutter app. |
+| 02 | [**BuzzMap**](https://www.buzzmap-qcesd.com/home) | Crowdsourced dengue prevention for Quezon City — 380+ users, 142 barangays, Google GenAI recommendations. |
+| 03 | **Streams** | Field-service dispatch on Laravel 12, React 19 and Flutter — ~190 endpoints, 12 roles, five enterprise systems synced. |
+| 04 | **AFProTrack** | Trainee management for the Philippine Army — Flutter on 24 JWT APIs, React 19 console with 44-permission RBAC. |
+| 05 | [**KaBiS**](https://kabis-review.vercel.app/) | Board-exam review — LLM ingestion behind server-side validation, ~46% overlap deduplicated. |
+| 06 | **DalaGO** | Food delivery for Infanta on Laravel 12 and Flutter — device-aware caching took a 9.25MB load to 1.27MB. |
+| 07 | [**MySher Aviary**](https://mysheraviary.com/) | Bird marketplace and management on React, Express.js, Supabase and PostgreSQL. |
+
+</details>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg?v=3" /><img src="./assets/activity-light.svg?v=3" width="100%" alt="Activity: The commit log." /></picture>
+
+<p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    />
-    <img
-      src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-      height="124"
-      alt="stats graph"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=0D1117&title_color=F0F6FC&text_color=9198A1&icon_color=D2733F&border_color=30363D" />
+    <img src="https://github-readme-stats-alpha-ten-19.vercel.app/api?username=tyrelcruz&show_icons=true&count_private=true&include_all_commits=true&card_width=495&border_radius=16&bg_color=FAF9F7&title_color=101214&text_color=646972&icon_color=A54A28&border_color=DFDCD6" width="49%" alt="GitHub stats" />
   </picture>
-
-  <!-- Top Languages -->
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-alpha-ten-19.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
-    />
-    <img
-      src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
-      height="124"
-      alt="languages graph"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=0D1117&border=30363D&stroke=30363D&ring=D2733F&fire=D2733F&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=D2733F&sideLabels=9198A1&dates=656C76" />
+    <img src="https://streak-stats.vercel.app/?user=tyrelcruz&border_radius=16&background=FAF9F7&border=DFDCD6&stroke=DFDCD6&ring=A54A28&fire=A54A28&currStreakNum=101214&sideNums=101214&currStreakLabel=A54A28&sideLabels=646972&dates=A3A6AC" width="49%" alt="Contribution streak" />
   </picture>
-
-  <!-- Streak Stats -->
+</p>
+<p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.vercel.app/?user=tyrelcruz&theme=tokyonight&hide_border=true"
-    />
-    <img
-      src="https://streak-stats.vercel.app/?user=tyrelcruz&hide_border=true"
-      height="124"
-      alt="streak stats"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by repo" />
   </picture>
-
-  <!-- GitHub Trophies -->
   <picture>
-    <img src="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyrelcruz&theme=default" width="32%" alt="Top languages by commit" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=github_dark&utcOffset=8" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyrelcruz&theme=default&utcOffset=8" width="32%" alt="Commits by hour (UTC+8)" />
+  </picture>
+</p>
 
-</div>
-
-</div>
-
-__________________
-
-<table align="center" width="100%" style="border-collapse:collapse; margin:0; padding:0;">
-  <tr>
-    <th colspan="2" style="text-align:center; font-size:18px; padding:0;">PROJECT BANNERS</th>
-  </tr>
-  <!-- First Row -->
-  <tr>
-    <th align="center" width="50%" style="padding:0; margin:0;">BuzzMap</th>
-    <th align="center" width="50%" style="padding:0; margin:0;">Aviary E-commerce</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding:0; margin:0;">
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/buzzmap.png" style="max-width:100%; margin:0; padding:0;" />
-    </td>
-    <td align="center" width="50%" style="padding:0; margin:0;">
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Aviary_banner.png" style="max-width:100%; margin:0; padding:0;" />
-    </td>
-  </tr>
-  <!-- Second Row -->
-  <tr>
-    <th align="center" width="50%" style="padding:0; margin:0;">AFProtrack</th>
-    <th align="center" width="50%" style="padding:0; margin:0;">Coast 2 Cart</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding:0; margin:0;">
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/AFProtrack_banner.png" style="max-width:100%; margin:0; padding:0;" />
-    </td>
-    <td>
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/C2C_banner.png" style="max-width:100%; margin:0; padding:0;" />
-    </td>
-  </tr>
-
-  <!-- Third Row -->
-  <tr>
-    <th align="center" width="50%" style="padding:0; margin:0;">OPTIMA</th>
-    <th align="center" width="50%" style="padding:0; margin:0;">******</th>
-    <tr>
-      <td align="center" width="50%" style="padding:0; margin:0;">
-      <img src="https://github.com/tyrelcruz/tyrelcruz/blob/main/Optima_banner.jpeg" style="max-width:100%; margin:0; padding:0;" />
-      </td>
-      <td>
-      <img src="https://imgs.search.brave.com/b00sD4o25QCLzAeOTfc7D07ghr8XGL7wdMZa9L2cEvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NDQ5NDMxNi92ZWN0/b3IvdW5kZXItY29u/c3RydWN0aW9uLXBh/Z2UtMDIuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVhCUGVw/TVdlcEhZdjhJdEE3/Z3M1YlcwcW5FV0NO/d3pId2N3enR1ZE94/X289" style="max-width:100%; margin:0; padding:0;" />
-    </td>
-    </tr>
-  </tr>
-</table>
-
-
-
-
-
+<a href="https://devtyrelcruz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg?v=3" /><img src="./assets/footer-light.svg?v=3" width="100%" alt="Tyrel Cruz — devtyrelcruz.vercel.app — linkedin.com/in/tyrelcruz — tyrelcruz90@gmail.com" /></picture></a>
